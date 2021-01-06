@@ -2,11 +2,11 @@
 
 Digital filters (FIR/ IIR) simulation by Matlab FDA tool and Verilog HDL
 
-#20210106-NOTE:
+# 20210106-NOTE:
 * Linear filter:        for example "mean filter" is linear filter.
 * Non-linear filter:    for example "median filter" is non-linear filter.
 
-#What is the difference?
+# What is the difference?
 * Fi(a+b) = Fi(a) + Fi(b), then Fi is called linear filter.
 * Hence, 
 * mean = (x1 + ...+ xN)/N; 
@@ -18,11 +18,11 @@ Digital filters (FIR/ IIR) simulation by Matlab FDA tool and Verilog HDL
 
 https://dsp.stackexchange.com/questions/14241/what-is-the-difference-between-linear-and-non-linear-filters
 
-#Semtech Corp patents:
+# Semtech Corp patents:
 
 * Drift suppression filter:
                  https://patents.google.com/patent/US10423278B2/en?inventor=Chaouki+Rouaissia
 * Proximity sensor with nonlinear filter: 
                  https://patents.google.com/patent/US10469115B2/en?inventor=Chaouki+Rouaissia
 
-#mducng
+# mducng
