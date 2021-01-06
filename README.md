@@ -19,9 +19,10 @@ Digital filters (FIR/ IIR) simulation by Matlab FDA tool and Verilog HDL
 https://dsp.stackexchange.com/questions/14241/what-is-the-difference-between-linear-and-non-linear-filters
 
 #Semtech Corp patents:
-*Drift suppression filter:
+
+* Drift suppression filter:
                  https://patents.google.com/patent/US10423278B2/en?inventor=Chaouki+Rouaissia
-*Proximity sensor with nonlinear filter: 
+* Proximity sensor with nonlinear filter: 
                  https://patents.google.com/patent/US10469115B2/en?inventor=Chaouki+Rouaissia
 
 #mducng
